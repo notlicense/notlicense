@@ -1,4 +1,4 @@
-<h1 align="center">not.license 🌃</h1>
+<h1 align="center">not.license</h1>
 <h3 align="center">CRACOW</h3>
 
 ### 👨‍💻About me
